@@ -1,0 +1,142 @@
+[
+  {
+    "Id": 1,
+    "name": "IKP Eden",
+    "capacity": "50 Seats",
+    "type": "OpenDesk",
+    "image": "http://www.sneed.in/images/uploads/21814667021060.jpg",
+    "description": "Co-Working space with 24/7 access, Dedicated Prototyping, Makerspace & Incubator.",
+    "feasability": "available",
+    "price": {
+      "hourly": "Rs.6900/-",
+      "daily": "Rs.3000/-",
+      "monthly": "Rs.90,000/-"
+    }
+  },
+    {
+    "Id": 2,
+    "name": "abc",
+    "capacity": "50 Seats",
+    "type": "OpenDesk",
+    "image": "http://sneed.in/images/uploads/2314482858132.jpg",
+    "description": "Co-Working space with 24/7 access, Dedicated Prototyping, Makerspace & Incubator.",
+    "feasability": "available",
+    "price": {
+      "hourly": "Rs.6900/-",
+      "daily": "Rs.3000/-",
+      "monthly": "Rs.90,000/-"
+    }
+  },
+    {
+    "Id": 3,
+    "name": "def",
+    "capacity": "50 Seats",
+    "type": "OpenDesk",
+    "image": "http://www.sneed.in/images/uploads/21814667021060.jpg",
+    "description": "Co-Working space with 24/7 access, Dedicated Prototyping, Makerspace & Incubator.",
+    "feasability": "available",
+    "price": {
+      "hourly": "Rs.6900/-",
+      "daily": "Rs.3000/-",
+      "monthly": "Rs.90,000/-"
+    }
+  },
+    {
+    "Id": 4,
+    "name": "hello",
+    "capacity": "50 Seats",
+    "type": "OpenDesk",
+    "image": "http://sneed.in/images/uploads/2314482858132.jpg",
+    "description": "Co-Working space with 24/7 access, Dedicated Prototyping, Makerspace & Incubator.",
+    "feasability": "available",
+    "price": {
+      "hourly": "Rs.6900/-",
+      "daily": "Rs.3000/-",
+      "monthly": "Rs.90,000/-"
+    }
+  },
+    {
+    "Id": 5,
+    "name": "hi",
+    "capacity": "50 Seats",
+    "type": "OpenDesk",
+    "image": "http://www.sneed.in/images/uploads/21814667021060.jpg",
+    "description": "Co-Working space with 24/7 access, Dedicated Prototyping, Makerspace & Incubator.",
+    "feasability": "available",
+    "price": {
+      "hourly": "Rs.6900/-",
+      "daily": "Rs.3000/-",
+      "monthly": "Rs.90,000/-"
+    }
+  },
+    {
+    "Id": 6,
+    "name": "aguai",
+    "capacity": "50 Seats",
+    "type": "OpenDesk",
+    "image": "http://sneed.in/images/uploads/2314482858132.jpg",
+    "description": "Co-Working space with 24/7 access, Dedicated Prototyping, Makerspace & Incubator.",
+    "feasability": "available",
+    "price": {
+      "hourly": "Rs.6900/-",
+      "daily": "Rs.3000/-",
+      "monthly": "Rs.90,000/-"
+    }
+  },
+    {
+    "Id": 7,
+    "name": "sneed",
+    "capacity": "50 Seats",
+    "type": "OpenDesk",
+    "image": "http://www.sneed.in/images/uploads/21814667021060.jpg",
+    "description": "Co-Working space with 24/7 access, Dedicated Prototyping, Makerspace & Incubator.",
+    "feasability": "available",
+    "price": {
+      "hourly": "Rs.6900/-",
+      "daily": "Rs.3000/-",
+      "monthly": "Rs.90,000/-"
+    }
+  },
+    {
+    "Id": 8,
+    "name": "teja",
+    "capacity": "50 Seats",
+    "type": "OpenDesk",
+    "image": "http://www.sneed.in/images/uploads/21814667021060.jpg",
+    "description": "Co-Working space with 24/7 access, Dedicated Prototyping, Makerspace & Incubator.",
+    "feasability": "available",
+    "price": {
+      "hourly": "Rs.6900/-",
+      "daily": "Rs.3000/-",
+      "monthly": "Rs.90,000/-"
+    }
+  },
+    {
+    "Id": 9,
+    "name": "sunil",
+    "capacity": "50 Seats",
+    "type": "OpenDesk",
+    "image": "http://www.sneed.in/images/uploads/21814667021060.jpg",
+    "description": "Co-Working space with 24/7 access, Dedicated Prototyping, Makerspace & Incubator.",
+    "feasability": "available",
+    "price": {
+      "hourly": "Rs.6900/-",
+      "daily": "Rs.3000/-",
+      "monthly": "Rs.90,000/-"
+    }
+  },
+    {
+    "Id": 10,
+    "name": "kumar",
+    "capacity": "50 Seats",
+    "type": "OpenDesk",
+    "image": "http://www.sneed.in/images/uploads/21814667021060.jpg",
+    "description": "Co-Working space with 24/7 access, Dedicated Prototyping, Makerspace & Incubator.",
+    "feasability": "available",
+    "price": {
+      "hourly": "Rs.6900/-",
+      "daily": "Rs.3000/-",
+      "monthly": "Rs.90,000/-"
+    }
+  }
+]
